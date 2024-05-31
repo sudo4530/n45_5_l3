@@ -3,6 +3,7 @@ class Node:
         self.data = data
         self.next = None
 
+# eofmdeogdk
 
 class LinkedList:
     def __init__(self):
